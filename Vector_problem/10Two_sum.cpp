@@ -75,7 +75,7 @@ int main() {
     int two_sum = 0;
 
     for (int i = 0; i < v.size(); i++) {
-        for (int j = i + 1; j < v.size(); j++) {
+        for (int j = i + 1; j < v.size()-1; j++) {
             if (v[i] + v[j] == search) {
                 two_sum++;
             }
