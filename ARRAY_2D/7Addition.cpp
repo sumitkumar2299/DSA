@@ -75,3 +75,12 @@ int main(){
 
 return 0;
 }
+
+
+
+
+
+
+// next is transpose of a matrix 
+// 90 degree transformation of an array problem 
+// transformation of an array using transpose 
